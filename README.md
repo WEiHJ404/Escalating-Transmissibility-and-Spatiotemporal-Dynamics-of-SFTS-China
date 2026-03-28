@@ -2,7 +2,7 @@
 
 This repository provides the scripts, figures, and source data files for the manuscript:
 
-**Escalating Transmissibility of SFTS in High-Endemic China: A Cross-Species Modeling Study**
+**Escalating Transmissibility of SFTS in High-Endemic China**
 
 ## Contents
 
